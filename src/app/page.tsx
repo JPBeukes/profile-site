@@ -276,7 +276,7 @@ export default async function Home() {
             Complex problem solver, builder, and creative.
           </h1>
           <p className="mt-6 text-base text-zinc-600 dark:text-zinc-400">
-            I’m Jacques, a software engineer (who wares many hats) based in South Africa. 
+            I’m Jacques, a software engineer (who wears many hats) based in South Africa. 
             My current efforts are focussed on establishing Yknot BCS to pioneer decentralized solutions for inclusive, and restorative distribution of wealth.
           </p>
           <div className="mt-6 flex gap-6">

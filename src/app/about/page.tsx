@@ -73,13 +73,13 @@ export default function About() {
           </h1>
           <div className="mt-6 space-y-7 text-base text-zinc-600 dark:text-zinc-400">
             <p>
-              My professional carrier is often crowded by two main characters.
-              The one group is entrepreneurs, who speak of golden opportunities,
+              My professional career is often crowded by two main characters.
+              Entrepreneurs who speak of golden opportunities,
               blue-skies and bright futures, but often lack the means to
-              execute. The other is technical folk, who likes to build, hack,
+              execute. And technical folk who likes to build, hack,
               and go down rabbit holes, but often forgets time, budget, and
               commercials. As fate would have it, I usually find myself in the
-              middle, trying to bridge the gap between dreams and reality.
+              middle, bridging the gap between dreams and reality.
             </p>
           </div>
         </div>
